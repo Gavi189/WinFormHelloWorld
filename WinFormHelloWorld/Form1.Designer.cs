@@ -38,9 +38,9 @@
             this.lblSaudacao.AutoSize = true;
             this.lblSaudacao.Location = new System.Drawing.Point(87, 43);
             this.lblSaudacao.Name = "lblSaudacao";
-            this.lblSaudacao.Size = new System.Drawing.Size(66, 13);
+            this.lblSaudacao.Size = new System.Drawing.Size(132, 13);
             this.lblSaudacao.TabIndex = 0;
-            this.lblSaudacao.Text = "Digite nome:";
+            this.lblSaudacao.Text = "Digite seu nome completo:";
             // 
             // btnSaudacao
             // 
